@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Carousel from 'react-bootstrap/Carousel'
 import ImageTemp from '../images/ImageTemp.jpeg';
+import ImageTemp2 from '../images/ImageTemp2.jpg';
 
 export default function ControlledCarousel() {
     const [index, setIndex] = React.useState(0);
@@ -26,10 +27,10 @@ export default function ControlledCarousel() {
           </div>
           
         </Carousel.Item>
-        {/* <Carousel.Item>
+        { <Carousel.Item>
           <img
             className="d-block w-100"
-            src={ImageTemp}
+            src={ImageTemp2}
             alt="Second slide"
           />
   
@@ -37,8 +38,8 @@ export default function ControlledCarousel() {
             <h3>Second slide label</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
           </Carousel.Caption>
-        </Carousel.Item> */}
-        {/* <Carousel.Item>
+        </Carousel.Item> }
+        { <Carousel.Item>
           <img
             className="d-block w-100"
             src={ImageTemp}
@@ -51,7 +52,7 @@ export default function ControlledCarousel() {
               Praesent commodo cursus magna, vel scelerisque nisl consectetur.
             </p>
           </Carousel.Caption>
-        </Carousel.Item> */}
+        </Carousel.Item> }
       </Carousel>
       </div>
     );

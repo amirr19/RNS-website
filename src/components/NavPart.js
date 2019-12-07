@@ -7,7 +7,7 @@ import Nav from 'react-bootstrap/Nav'
   render() {
     return (
     <div>
-<Navbar expand="lg" >
+<Navbar expand="lg" fixed="top" >
 <Navbar.Toggle aria-controls="basic-navbar-nav" />
 <Navbar.Collapse id="basic-navbar-nav">
   <Nav>
