@@ -8,10 +8,6 @@ export default class Error extends Component {
         return (
             <div>
 <NavPart />
-<div className="registerAndLogin">
-  <p>Register</p>
-  <p>Login</p>
-</div>
 <MainCarousel />
 <Section2 />
 <Section3 />

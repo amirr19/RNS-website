@@ -2,6 +2,8 @@
 .navbar {
   background-color:#124B68 ;
   padding: 0 !important;
+  font-size: 10pt;
+  font-weight: 200;
 }
 .navbar-nav{
   margin: auto;
@@ -20,8 +22,16 @@
   font-size: 12pt;
 width: 100%;
 float: left;
+position:fixed;
+top:36px;
+width:100%;
+z-index:100;
+font-size: 10pt;
+font-weight: 300;
+
 }
 .registerAndLogin p {
+
   margin: 0;
   margin-left:20px;
   margin-bottom: 2px;
@@ -35,14 +45,14 @@ float: right;
 }
 .top-right{
   position: absolute;
-  top: 8px;
+  top: 100px;
   right: 0;
   left: 50%;
   bottom: 20px;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #fff;
+  color: royalblue;
   text-align: center;
 }
 .carousel img {

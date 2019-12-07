@@ -22,6 +22,10 @@ import Nav from 'react-bootstrap/Nav'
   </Nav>
 </Navbar.Collapse>
 </Navbar>
+<div className="registerAndLogin">
+  <p>Register</p>
+  <p>Login</p>
+</div>
   </div>
   )
   }
