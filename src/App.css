@@ -1,49 +1,131 @@
 /* _________________________________navbar_______________________________ */
 .navbar {
-  background-color:#124B68 ;
+  background-color: #124b68;
   padding: 0 !important;
   font-size: 10pt;
   font-weight: 200;
 }
-.navbar-nav{
+.navbar-nav {
   margin: auto;
 }
-.nav-link{
+.nav-link {
   color: #ffffff !important;
-  margin-left: 10px;
-  margin-right: 10px;
+  font-weight: 400;
 }
 /* ________________________________register and login div______________________ */
 .registerAndLogin {
-  padding-right:24px ;
-  color:#124B68 ;
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(168,166,162));
+  padding-right: 24px;
+  color: #124b68;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0),
+    rgba(168, 166, 162)
+  );
   font-weight: 450;
   font-size: 12pt;
-width: 100%;
-float: left;
-position:fixed;
-top:36px;
-width:100%;
-z-index:100;
-font-size: 10pt;
-font-weight: 300;
-
+  width: 100%;
+  float: left;
+  position: fixed;
+  top: 36px;
+  width: 100%;
+  z-index: 100;
+  font-size: 10pt;
+  font-weight: 300;
 }
 .registerAndLogin p {
-
   margin: 0;
-  margin-left:20px;
+  margin-left: 20px;
   margin-bottom: 2px;
   display: inline;
-float: right;
+  float: right;
 }
 
-/* ________________________carousel______________________ */
+/* __________________________main banner section 1________________ */
+.main_banner {
+  /* margin-top: 50px; */
+  height: 100vh;
+  background-color: #124b68;
+}
+.bottom_left {
+  color: #ffffff;
+  position: absolute;
+  right: 55%;
+  left: 60px;
+  bottom: 20px;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+.button_left h1 {
+  font-weight: 900;
+}
+/* ____________________________Demo right text___________________  */
+.demorightext {
+  text-align: center;
+  background-color: #124b68;
+  color: #ffffff;
+  height: 100vh;
+}
+.verticalalign {
+  vertical-align: middle;
+}
+.demorightext img {
+  width: 120px;
+}
+.righttext {
+  display: inline-block;
+  width: 300px;
+  vertical-align: middle;
+  text-align: left;
+  padding-left: -100px;
+}
+.righttext h5 {
+  font-weight: 900;
+}
+
+/* _____________________________Demo left text_______________________________ */
+.demolefttext {
+  text-align: center;
+  background-color: #ffffff;
+  color: #124b68;
+  height: 100vh;
+}
+.verticalalign {
+  vertical-align: middle;
+  padding-top: 10%;
+}
+.demolefttext img {
+  width: 120px;
+}
+.lefttext {
+  display: inline-block;
+  width: 300px;
+  vertical-align: middle;
+  text-align: left;
+}
+.lefttext h5 {
+  font-weight: 900;
+  text-align: right;
+}
+
+/* ___________________________________ secondary servisec (section3) __________________________________ */
+.section3secondary {
+  height: 100vh;
+  background-color: #124b68;
+  text-align: center;
+}
+.section3secondary h1 {
+  font-weight: 900;
+  font-size: 70pt;
+  color: #ffffff;
+  vertical-align: middle;
+}
+/* ______________________________carousel___________________________ */
 .carousel {
   height: 100%;
 }
-.top-right{
+.top-right {
   position: absolute;
   top: 100px;
   right: 0;
@@ -62,52 +144,55 @@ float: right;
 
 /* section 2 left panel _________________________________________________ */
 
-.bg-section2{
-  background: #a8a6a2;
-  /* height: 100vh; */
-  /* padding: 0.1rem 0; */
+.bg-section2 {
+  background: #124b68;
   padding: 1px;
-  vertical-align: middle;
+  text-align: center;
+  height: 100vh;
+  color: #ffffff;
 }
-.left-panel{
+
+.bg-section2 h1 {
+  margin-top: 10%;
+}
+.left-panel {
   margin: 100px;
   width: 400px;
   height: auto;
 }
 /* SECTION 3__________________________________________ */
-.services{
+.services {
   background-image: url(./images/ImageTemp2.jpg);
   background-color: transparent;
-    background-size: cover;
-    background-repeat: repeat;
-    background-position: center center;
-    background-attachment: fixed;
-    text-align: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  text-align: center;
 }
 .services-center {
   margin: 0 auto;
-  display: inline; 
+  display: inline;
 }
-.services span img{
+.services span img {
   display: inline-block;
   width: 300px;
   height: 300px;
 }
-.services p{
+.services p {
   width: 300px;
   margin: auto;
-  background-color: rgba(255,255,255,.3);
+  background-color: rgba(255, 255, 255, 0.3);
 }
-.services h6{
-  background-color: rgba(255,255,255,.3);
+.services h6 {
+  background-color: rgba(255, 255, 255, 0.3);
   margin: 0;
 }
 .services-shadow-bg {
-  background-color: rgba(255,255,255,.3);
-    /* border-radius: 20px; */
-    padding: 20px 40px;
-    width: fit-content;
-    display: inline-block;
-    margin: 100px 0;
+  background-color: rgba(255, 255, 255, 0.3);
+  /* border-radius: 20px; */
+  padding: 20px 40px;
+  width: fit-content;
+  display: inline-block;
+  margin: 100px 0;
 }
-

@@ -1,0 +1,152 @@
+// const React = require("react");
+// const style = require("./web-1920-4.css");
+import React from "react";
+import PropTypes from "prop-types";
+
+import "./web-1920-4.css";
+
+class Web19204 extends React.Component {
+
+  constructor(props) {
+      super(props);
+      this.state = {
+          
+      };
+  }
+  
+  render() {
+    
+    return (
+          <div data-layer="0603bcca-df90-4b39-8594-959bb8bbcaac" className="web-1920-4">        <svg data-layer="061b70d8-5529-46ae-a60a-73050029c8cf" preserveAspectRatio="none" viewBox="-0.75 -0.75 210.5 210.5" className="ellipse-16"><path d="M 104.5 0 C 162.2137603759766 0 209 46.7862434387207 209 104.5 C 209 162.2137603759766 162.2137603759766 209 104.5 209 C 46.7862434387207 209 0 162.2137603759766 0 104.5 C 0 46.7862434387207 46.7862434387207 0 104.5 0 Z"  /></svg>
+        <div data-layer="5a0a861a-8bd0-41c4-b8c6-2f630fa6cd84" className="gif">Gif</div>
+        <div data-layer="9c41e675-56e9-4ca9-9df3-31de515116a6" className="rectangle-12"></div>
+        <div data-layer="167f595d-c36d-411b-a4f8-f92db4a52b10" className="rns">RNS</div>
+        <svg data-layer="e538c2e9-c5bc-4085-8f82-76c650750107" preserveAspectRatio="none" viewBox="0 -0.5 1920 1" className="line-71"><path d="M 0 0 L 1920 0"  /></svg>
+        <div data-layer="334321cd-9ba2-431a-b06d-0c71bfbb09c7" className="rectangle-5"></div>
+        <svg data-layer="14633a98-9a84-410b-a221-13de24a946aa" preserveAspectRatio="none" viewBox="-9 -7.5 1996 30" className="line-114"><path d="M 0 0 L 1972 0"  /></svg>
+        <div data-layer="9d0bcfd5-d8c4-4e42-9231-7ba761eee873" className="as-the-rns-assistant-team-we-are-determined-to-be-a-turning-point-in-the-world-of-engineering-and-medicine-read-more"><span className="as-the-rns-assistant-team-we-are-determined-to-be-a-turning-point-in-the-world-of-engineering-and-medicine-read-more-0">As the RNS Assistant team, we are determined to be a turning point in the world of engineering and medicine </span><span className="as-the-rns-assistant-team-we-are-determined-to-be-a-turning-point-in-the-world-of-engineering-and-medicine-read-more-108"> </span><span className="as-the-rns-assistant-team-we-are-determined-to-be-a-turning-point-in-the-world-of-engineering-and-medicine-read-more-109">Read More</span></div>
+        <div data-layer="bb7ce967-d81a-4fed-8e22-919185d2f9d7" className="rectangle-11"></div>
+        <div data-layer="52c3802a-a86f-45e1-8813-f084f8731d82" className="start-now">Start Now</div>
+        <div data-layer="b70e14f4-aeda-423d-8f1c-e2bfb1263f1e" className="medical-service">Medical Service</div>
+        <div data-layer="d1ea3f65-5305-490a-9973-e6ca46b593c6" className="neurological-disease-system-with-the-help-of-irans-top-hospitals-in-this-field-relying-on-radiological-neurological-and-neurosurgical-achievements-can-diagnose-diseases-such-as-ms-brain-tumor-etc-examines-the-patients-clinical-tests-and-results-and"><span className="neurological-disease-system-with-the-help-of-irans-top-hospitals-in-this-field-relying-on-radiological-neurological-and-neurosurgical-achievements-can-diagnose-diseases-such-as-ms-brain-tumor-etc-examines-the-patients-clinical-tests-and-results-and-0">Neurological Disease System with the help of Iran’s top hospitals in this field, relying on radiological, neurological and neurosurgical achievements can diagnose diseases such as MS, brain tumor, etc. Examines the patient’s clinical tests and results and identifies results with the latest treatment protocols. </span><span className="neurological-disease-system-with-the-help-of-irans-top-hospitals-in-this-field-relying-on-radiological-neurological-and-neurosurgical-achievements-can-diagnose-diseases-such-as-ms-brain-tumor-etc-examines-the-patients-clinical-tests-and-results-and-312">Read More<br /></span></div>
+        <svg data-layer="5afefb64-a008-4536-9a98-0d8d77ac941d" preserveAspectRatio="none" viewBox="-0.75 -0.75 210.5 210.5" className="ellipse-10"><path d="M 104.5 0 C 162.2137603759766 0 209 46.7862434387207 209 104.5 C 209 162.2137603759766 162.2137603759766 209 104.5 209 C 46.7862434387207 209 0 162.2137603759766 0 104.5 C 0 46.7862434387207 46.7862434387207 0 104.5 0 Z"  /></svg>
+        <div data-layer="c8a5d84c-3de1-41ee-aa47-f98512d44409" className="gif1">Gif</div>
+        <div data-layer="de1d1fb4-91c5-4594-bc50-d39977bbc7de" className="macbook-mock-dribbble"></div>
+        <div data-layer="073ace5c-4a04-4e3d-ae15-8df8c9bb01e5" className="symptoms-checking-system">Symptoms checking system</div>
+        <div data-layer="3e7e6575-05ad-4331-8782-8fdc6454df8c" className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i"><span className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i-0">Symptoms checking system with a wide range of diseases and careful examination of the symptoms of patients can identify a wide variety of diseases and problems. High computational speed, sufficient accuracy in various specialized fields, high reliability in the detection of various diseases are features of this system. </span><span className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i-321">Read More</span></div>
+        <div data-layer="332f67fc-6887-431c-a8ce-3726b8b10e41" className="iphone-11"></div>
+        <div data-layer="87d5f49c-bc47-460e-92e1-00b01225a83e" className="drug-interaction-system">Drug Interaction System</div>
+        <div data-layer="5a611e00-09e5-461e-b8ab-b33b9f4580a9" className="the-drug-interaction-system-uses-the-latest-drug-database-and-the-latest-pharmacological-data-on-drug-interactions-their-prescribed-doses-alerts-and-symptoms-to-patients-and-physicians-this-system-is-well-acquainted-with-a-wide-range-of-medications-and"><span className="the-drug-interaction-system-uses-the-latest-drug-database-and-the-latest-pharmacological-data-on-drug-interactions-their-prescribed-doses-alerts-and-symptoms-to-patients-and-physicians-this-system-is-well-acquainted-with-a-wide-range-of-medications-and-0">The Drug Interaction System uses the latest drug database and the latest pharmacological data on drug interactions, their prescribed doses, alerts, and symptoms to patients and physicians. This system is well acquainted with a wide range of medications and therapeutic methods and reviews all clinical procedures.</span><span className="the-drug-interaction-system-uses-the-latest-drug-database-and-the-latest-pharmacological-data-on-drug-interactions-their-prescribed-doses-alerts-and-symptoms-to-patients-and-physicians-this-system-is-well-acquainted-with-a-wide-range-of-medications-and-313"> </span><span className="the-drug-interaction-system-uses-the-latest-drug-database-and-the-latest-pharmacological-data-on-drug-interactions-their-prescribed-doses-alerts-and-symptoms-to-patients-and-physicians-this-system-is-well-acquainted-with-a-wide-range-of-medications-and-314">Read More</span></div>
+        <svg data-layer="851050d2-1b81-43e2-8d6d-abc5605d76e3" preserveAspectRatio="none" viewBox="-0.75 -0.75 210.5 210.5" className="ellipse-11"><path d="M 104.5 0 C 162.2137603759766 0 209 46.7862434387207 209 104.5 C 209 162.2137603759766 162.2137603759766 209 104.5 209 C 46.7862434387207 209 0 162.2137603759766 0 104.5 C 0 46.7862434387207 46.7862434387207 0 104.5 0 Z"  /></svg>
+        <div data-layer="8fda6128-6996-4cd9-8e77-99df8ebfb56f" className="gif2">Gif</div>
+        <svg data-layer="47e7855c-4667-4905-9104-5b2364df6f87" preserveAspectRatio="none" viewBox="-0.75 -0.75 105.5 105.5" className="ellipse-12"><path d="M 52 0 C 80.71880340576172 0 104 23.28119468688965 104 52 C 104 80.71880340576172 80.71880340576172 104 52 104 C 23.28119468688965 104 0 80.71880340576172 0 52 C 0 23.28119468688965 23.28119468688965 0 52 0 Z"  /></svg>
+        <div data-layer="4e6700e0-ad13-467e-9e13-ef4293132633" className="gif3">Gif</div>
+        <svg data-layer="7858ac26-5f02-4145-ae5d-7ed387f63191" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-115"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="c7f3b4ca-4813-48eb-856a-6afbb4dbc89d" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-116"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="51fd6017-2890-4c27-b3d9-85340deb6f69" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-117"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="e3acbaaf-3228-4882-b291-417574231cb0" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-118"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="77152613-c7c0-4f16-8af5-874f52c0efec" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-135"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="71049712-b371-45a3-957f-7946f06fecc9" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-136"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="8d6bfc68-8dcb-4c3c-84f2-8ae0546e612c" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-123"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="9709d17f-9182-4f53-8778-1d24f2f5c2ff" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-124"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="375088ff-01df-4649-beb3-730368d78e49" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-125"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="8cda5be7-d174-4502-84b2-698b55fd279d" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-126"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="2b6f63aa-7b4f-4add-92de-cd877da31025" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-137"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="828c95c3-9636-4f00-b25c-40b979ea75b9" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-138"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="07cfdfad-98fd-4915-9284-5bac67be78a5" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-127"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="248f1c60-0bf2-4ca9-acc5-f449a7d0bbae" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-128"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="cd971ac1-52d0-4b39-90ce-75931b7c4332" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-129"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="9dc2582c-8315-4cd8-b145-47368c30d22b" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-130"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="8246e819-6439-4795-bb5f-adfe72d47dca" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-139"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="6e1ac6ed-e91b-4c68-ada9-5e6d131c30e1" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-140"><path d="M 0 0 L 0 30"  /></svg>
+        <div data-layer="69926c61-2755-464e-94d4-190bf41158da" className="secondary-services">Secondary Services</div>
+        <svg data-layer="a0377c94-6e11-4ddd-b1da-7f41a02536aa" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-141"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="cb9eeb22-17e2-4028-9019-03bc57eb8fb5" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-150"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="bf5b0d0b-b800-4b44-b9e1-c577ec207c74" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-142"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="015a8991-a623-4ff9-8bf1-7d6f45c2982c" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-152"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="aaf5660c-cad3-4cd9-bf7c-f21857691525" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-143"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="e35ff06e-e3ac-4e87-8a2f-010ee8085cff" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-151"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="661053ac-58fe-4c36-af7e-8fd196f21317" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-144"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="be21f016-9da0-4fed-9237-70c873e98357" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-149"><path d="M 0 0 L 0 30"  /></svg>
+        <div data-layer="98e15e3a-d19b-476d-9576-77f42ee9f91e" className="macbook-mock-dribbble1"></div>
+        <svg data-layer="8a9c7019-d026-4ba7-ab09-95e38d2d2ae6" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-145"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="4d108b14-6265-439a-a021-4fd3a785200e" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-148"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="299a83a4-742f-46be-91f1-630322ce3491" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-146"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="2d1d1e6e-7041-4daf-a8a1-eb8feb90e4ce" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-147"><path d="M 0 0 L 0 30"  /></svg>
+        <div data-layer="cd78dc70-c7f2-4265-910c-030c239ec5ff" className="iphone-111"></div>
+        <div data-layer="015977f6-6ed3-4123-838e-4efcf8f732a2" className="appointment-system">Appointment system</div>
+        <div data-layer="bdfb6c55-adaa-43a3-89b4-4087e344bc35" className="the-doctor-and-nurse-scheduling-system-gives-you-access-to-any-physician-or-nurse-you-choose-different-treatment-centers-consider-doctors-or-healthcare-options-and-examine-the-possibilities-of-each-you-make-time-with-your-doctor-score-your-doctors-fi"><span className="the-doctor-and-nurse-scheduling-system-gives-you-access-to-any-physician-or-nurse-you-choose-different-treatment-centers-consider-doctors-or-healthcare-options-and-examine-the-possibilities-of-each-you-make-time-with-your-doctor-score-your-doctors-fi-0">The doctor and nurse scheduling system gives you access to any physician or nurse. You choose different treatment centers, consider doctors or healthcare options, and examine the possibilities of each. You make time with your doctor. Score your doctors. Find the nearest medical center and contact doctors without delay. </span><span className="the-doctor-and-nurse-scheduling-system-gives-you-access-to-any-physician-or-nurse-you-choose-different-treatment-centers-consider-doctors-or-healthcare-options-and-examine-the-possibilities-of-each-you-make-time-with-your-doctor-score-your-doctors-fi-321">Read More</span></div>
+        <svg data-layer="fb6906c4-4be5-4a45-8d46-9f7f7270ddac" preserveAspectRatio="none" viewBox="-0.75 -0.75 105.5 105.5" className="ellipse-13"><path d="M 52 0 C 80.71880340576172 0 104 23.28119468688965 104 52 C 104 80.71880340576172 80.71880340576172 104 52 104 C 23.28119468688965 104 0 80.71880340576172 0 52 C 0 23.28119468688965 23.28119468688965 0 52 0 Z"  /></svg>
+        <div data-layer="66115758-072e-4786-b872-74166131c001" className="gif4">Gif</div>
+        <svg data-layer="d94c6462-8d49-4733-8b8c-a7e6d428e5ae" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-153"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="f4fbb474-9912-4a27-a39c-bc6823e45b1f" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-154"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="401b1af7-6420-4ff9-8646-5bdd52769413" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-155"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="60bd410f-7a84-4873-be13-9bc2043eed71" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-156"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="40ac7795-9987-4817-a46f-3bda38c672ec" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-157"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="1aa02a92-3157-4c05-bdeb-b49ece104f34" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-158"><path d="M 0 0 L 0 30"  /></svg>
+        <div data-layer="f1345c93-da55-44f8-8c8f-d52993f787dd" className="main-service">Main Service</div>
+        <svg data-layer="58e3a725-dbc4-442b-a4ea-6d78ef0a7c3b" preserveAspectRatio="none" viewBox="-0.75 -0.75 210.5 210.5" className="ellipse-14"><path d="M 104.5 0 C 162.2137603759766 0 209 46.7862434387207 209 104.5 C 209 162.2137603759766 162.2137603759766 209 104.5 209 C 46.7862434387207 209 0 162.2137603759766 0 104.5 C 0 46.7862434387207 46.7862434387207 0 104.5 0 Z"  /></svg>
+        <div data-layer="63a29499-a826-4b42-89f0-8e05c772ef4e" className="gif5">Gif</div>
+        <svg data-layer="d91c5329-78ca-4404-b591-905549294376" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-159"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="7acb0499-7113-431b-bf03-3053b2e9769d" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-160"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="456ce3cd-53db-468b-be66-1ccefea18ca6" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-161"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="76efe570-dd96-4243-b19f-2b674f32fa53" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-162"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="f92653fb-1bac-4917-9627-6065e555640a" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-163"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="2e24b7ef-2bb9-4417-a604-10a45e5bbbb6" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-164"><path d="M 0 0 L 0 30"  /></svg>
+        <div data-layer="21fd2e93-488a-4f20-938c-dd77c4ae02dc" className="rectangle-4"></div>
+        <div data-layer="f22df7bd-03f4-4a20-8fb9-a8c6507ff587" className="login">Login</div>
+        <div data-layer="d96808a1-9d84-40ae-a6eb-fc15ac74e77f" className="register">Register</div>
+        <div data-layer="88f8e5af-03fb-47de-9479-dc6a54564226" className="group-7">            <div data-layer="881f51f4-3aa4-4515-a9ca-9e29d6104923" className="rectangle-2"></div>
+            <div data-layer="ae6b22f9-a342-49ec-b1d6-7b8faa68283a" className="rectangle-3"></div>
+            <div data-layer="d32a925b-429e-4d81-8f86-3f73db1c218e" className="group-3">                <div data-layer="bdc6e1f8-c847-495f-84f2-acf21e2d474a" className="home">Home</div>
+                <div data-layer="9da0f927-3f8a-4108-b0b2-129055001946" className="about-us">About us</div>
+                <div data-layer="52ef0238-24e7-459a-b8ec-aa122a330ca3" className="symptom-checker">Symptom checker</div>
+                <div data-layer="cd4a65fe-4494-47e0-86bf-6aee6d6820da" className="news">News</div>
+                <div data-layer="f4be224e-5913-4726-9b87-2a400075eae0" className="our-service">Our service</div>
+                <div data-layer="6121248c-4fd1-48cd-b273-e7c611a80082" className="drug-interaction">Drug interaction</div>
+                <div data-layer="94e9ca09-669c-432c-a590-3d512bd9f8c1" className="medical-servicea0833cc4">Medical service  </div>
+                <svg data-layer="068ea648-feba-4020-a043-6c64342acf4a" preserveAspectRatio="none" viewBox="3 1150.2999267578125 17.5 17.60009765625" className="path"><path d="M 15.5 1161.400024414062 L 20.5 1166.400024414062 L 19 1167.900024414062 L 14 1162.900024414062 L 14 1162.099975585938 L 13.69999980926514 1161.799926757812 C 12.5 1162.799926757812 11.10000038146973 1163.299926757812 9.5 1163.299926757812 C 7.699999809265137 1163.299926757812 6.099999904632568 1162.699951171875 4.900000095367432 1161.39990234375 C 3.700000286102295 1160.099853515625 3 1158.599853515625 3 1156.799926757812 C 3 1155 3.599999904632568 1153.39990234375 4.900000095367432 1152.199951171875 C 6.200000286102295 1151 7.699999809265137 1150.299926757812 9.5 1150.299926757812 C 11.30000019073486 1150.299926757812 12.80000019073486 1150.89990234375 14.10000038146973 1152.199951171875 C 15.30000019073486 1153.5 16 1155 16 1156.799926757812 C 16 1158.39990234375 15.5 1159.799926757812 14.5 1160.999877929688 L 14.80000019073486 1161.299926757812 L 15.5 1161.299926757812 L 15.5 1161.400024414062 Z M 6.300000190734863 1160.099975585938 C 7.200000286102295 1161 8.199999809265137 1161.400024414062 9.5 1161.400024414062 C 10.69999980926514 1161.400024414062 11.80000019073486 1161 12.69999980926514 1160.099975585938 C 13.59999942779541 1159.199951171875 14 1158.199951171875 14 1156.900024414062 C 14 1155.60009765625 13.60000038146973 1154.599975585938 12.69999980926514 1153.700073242188 C 11.80000019073486 1152.800048828125 10.80000019073486 1152.400024414062 9.5 1152.400024414062 C 8.300000190734863 1152.400024414062 7.199999809265137 1152.800048828125 6.300000190734863 1153.700073242188 C 5.400000095367432 1154.60009765625 5 1155.60009765625 5 1156.900024414062 C 5 1158.199951171875 5.5 1159.199951171875 6.300000190734863 1160.099975585938 Z"  /></svg>
+</div>
+</div>
+        <div data-layer="798deea0-8a0c-400c-87dd-1374ddaedad4" className="group-8">            <div data-layer="51d268f0-1d71-42f4-a9d7-72e7b900feec" className="rectangle-2b789f1f3"></div>
+            <div data-layer="950680fd-a6dc-4db7-a22c-b234aaa148fb" className="rectangle-3b0b8050f"></div>
+            <div data-layer="a2c62864-0e82-4580-8678-1097f21682cd" className="group-34a6393dd">                <div data-layer="72fbe64e-8bc6-41d8-a728-2498962621aa" className="homede953ff0">Home</div>
+                <div data-layer="c3fd61d0-4e62-458d-8471-debcc357c7de" className="about-us07dc46bf">About Us</div>
+                <div data-layer="a5b06a7c-3d0d-434e-b483-385d91fe3962" className="symptom-checkeraf13c7b8">Symptom Checker</div>
+                <div data-layer="522c5ebd-31ec-4204-8c63-cce6fa26fc5b" className="newse27d8737">News</div>
+                <div data-layer="f1068e7d-2478-45c0-99c9-eb5dd317e3cb" className="rns-service">RNS Service</div>
+                <div data-layer="b0ded6aa-b248-457c-9d8d-0c5099e773da" className="drug-interactiona57f1d71">Drug Interaction</div>
+                <div data-layer="2394ba39-d74f-44d4-abc7-3149a3b8a769" className="medical-service43f86409">Medical Service</div>
+                <svg data-layer="3c9c5a55-3fd9-41ec-b2f8-71dbd724ecd2" preserveAspectRatio="none" viewBox="3 1150.2999267578125 17.5 17.60009765625" className="path94ed3655"><path d="M 15.5 1161.400024414062 L 20.5 1166.400024414062 L 19 1167.900024414062 L 14 1162.900024414062 L 14 1162.099975585938 L 13.69999980926514 1161.799926757812 C 12.5 1162.799926757812 11.10000038146973 1163.299926757812 9.5 1163.299926757812 C 7.699999809265137 1163.299926757812 6.099999904632568 1162.699951171875 4.900000095367432 1161.39990234375 C 3.700000286102295 1160.099853515625 3 1158.599853515625 3 1156.799926757812 C 3 1155 3.599999904632568 1153.39990234375 4.900000095367432 1152.199951171875 C 6.200000286102295 1151 7.699999809265137 1150.299926757812 9.5 1150.299926757812 C 11.30000019073486 1150.299926757812 12.80000019073486 1150.89990234375 14.10000038146973 1152.199951171875 C 15.30000019073486 1153.5 16 1155 16 1156.799926757812 C 16 1158.39990234375 15.5 1159.799926757812 14.5 1160.999877929688 L 14.80000019073486 1161.299926757812 L 15.5 1161.299926757812 L 15.5 1161.400024414062 Z M 6.300000190734863 1160.099975585938 C 7.200000286102295 1161 8.199999809265137 1161.400024414062 9.5 1161.400024414062 C 10.69999980926514 1161.400024414062 11.80000019073486 1161 12.69999980926514 1160.099975585938 C 13.59999942779541 1159.199951171875 14 1158.199951171875 14 1156.900024414062 C 14 1155.60009765625 13.60000038146973 1154.599975585938 12.69999980926514 1153.700073242188 C 11.80000019073486 1152.800048828125 10.80000019073486 1152.400024414062 9.5 1152.400024414062 C 8.300000190734863 1152.400024414062 7.199999809265137 1152.800048828125 6.300000190734863 1153.700073242188 C 5.400000095367432 1154.60009765625 5 1155.60009765625 5 1156.900024414062 C 5 1158.199951171875 5.5 1159.199951171875 6.300000190734863 1160.099975585938 Z"  /></svg>
+</div>
+</div>
+        <div data-layer="55d07d21-309b-4d87-9b97-326229095d33" className="rectangle-13"></div>
+        <div data-layer="0ebe8cec-1416-4cad-ae01-c5be1633e0ef" className="macbook-mock-dribbble2"></div>
+        <div data-layer="1e46110c-5551-43fc-8294-e76af4e20f4d" className="data-registering">Data Registering </div>
+        <div data-layer="682fe5b6-9e04-4ccb-86c1-1330443b65c1" className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i1"><span className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i1-0">Symptoms checking system with a wide range of diseases and careful examination of the symptoms of patients can identify a wide variety of diseases and problems. High computational speed, sufficient accuracy in various specialized fields, high reliability in the detection of various diseases are features of this system. </span><span className="symptoms-checking-system-with-a-wide-range-of-diseases-and-careful-examination-of-the-symptoms-of-patients-can-identify-a-wide-variety-of-diseases-and-problems-high-computational-speed-sufficient-accuracy-in-various-specialized-fields-high-reliability-i1-321">Read More</span></div>
+        <svg data-layer="7c2b980f-f075-4dfb-8c32-50a397f731bb" preserveAspectRatio="none" viewBox="-0.75 -0.75 210.5 210.5" className="ellipse-15"><path d="M 104.5 0 C 162.2137603759766 0 209 46.7862434387207 209 104.5 C 209 162.2137603759766 162.2137603759766 209 104.5 209 C 46.7862434387207 209 0 162.2137603759766 0 104.5 C 0 46.7862434387207 46.7862434387207 0 104.5 0 Z"  /></svg>
+        <div data-layer="0381c764-474e-4a1f-a24f-c62253475deb" className="gif6">Gif</div>
+        <svg data-layer="48f7a97a-8a8a-488b-8782-a971a17655c9" preserveAspectRatio="none" viewBox="-2 -2 4 117" className="line-165"><path d="M 0 0 L 0 113"  /></svg>
+        <svg data-layer="4218563b-e312-420a-84f4-971b6fb72fe4" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-166"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="238ac6eb-c0c8-4c1d-ad9c-154b3bf4f350" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-167"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="0bfdf8b0-9b6a-474d-beda-dfdb6000a80e" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-168"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="3a11b571-6725-416e-bd8e-558e1357fe64" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-169"><path d="M 0 0 L 0 30"  /></svg>
+        <svg data-layer="0405c90b-20fc-42a8-a815-c601f6d83090" preserveAspectRatio="none" viewBox="-2 -2 4 34" className="line-170"><path d="M 0 0 L 0 30"  /></svg>
+</div>
+
+    );
+  }
+}
+
+Web19204.propTypes = {
+
+}
+
+Web19204.defaultProps = {
+
+}
+
+
+// module.exports = Web19204;
+export default Web19204;
+          

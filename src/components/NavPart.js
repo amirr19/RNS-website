@@ -12,12 +12,12 @@ import Nav from 'react-bootstrap/Nav'
 <Navbar.Collapse id="basic-navbar-nav">
   <Nav>
     <Nav.Link href="#home">Home</Nav.Link>
-    <Nav.Link href="#Drug interaction">Drug interaction</Nav.Link>
-    <Nav.Link href="#LNewsink">LNewsink</Nav.Link>
-    <Nav.Link href="#Drug_interaction">Drug interaction</Nav.Link>
-    <Nav.Link href="#Medical_service">Medical service</Nav.Link>
-    <Nav.Link href="#Symptom checker">Symptom checker</Nav.Link>
-    <Nav.Link href="#About_us">About us</Nav.Link>
+    <Nav.Link href="#Drug interaction">RNS Service</Nav.Link>
+    <Nav.Link href="#LNewsink">News</Nav.Link>
+    <Nav.Link href="#Drug_interaction">Medical service</Nav.Link>
+    <Nav.Link href="#Medical_service">Drug Interaction</Nav.Link>
+    <Nav.Link href="#Symptom checker">Symptom Checker</Nav.Link>
+    <Nav.Link href="#About_us">About Us</Nav.Link>
     <Nav.Link href="#About_us"><FaSistrix/></Nav.Link>
   </Nav>
 </Navbar.Collapse>
