@@ -16,6 +16,7 @@ export default class Error extends Component {
         <Section2 />
         <DemoRightText
           imgDemo={pc}
+          idDemo="pc"
           titelDemo="Medical Service"
           captionDemo="Neurological Disease System with the help
           of Iran’s top hospitals in this field, relying
@@ -30,6 +31,7 @@ export default class Error extends Component {
         <Section3secondary />
         <DemoRightText
           imgDemo={pc}
+          idDemo="pc"
           titelDemo="Symptoms checking system"
           captionDemo="Symptoms checking system with a wide range of
           diseases and careful examination of the
@@ -42,6 +44,7 @@ export default class Error extends Component {
         />
         <DemoLeftText
           imgDemo={mobile}
+          idDemo="mobile"
           titelDemo="Drug Interaction System"
           captionDemo="Symptoms checking system with a wide range of
            diseases and careful examination of the symptoms of
@@ -53,6 +56,7 @@ export default class Error extends Component {
         />
         <DemoRightText
           imgDemo={mobile}
+          idDemo="mobile"
           titelDemo="Appointment system"
           captionDemo="The doctor and nurse scheduling system gives you access to any
           physician or nurse. You choose different treatment centers, consider
@@ -63,6 +67,7 @@ export default class Error extends Component {
         />
         <DemoLeftText
           imgDemo={pc}
+          idDemo="pc"
           titelDemo="Data Registering"
           captionDemo="Symptoms checking system with a wide range of
           diseases and careful examination of the symptoms

@@ -1,6 +1,7 @@
 import React from "react";
 export default function DemoRightText({
   imgDemo,
+  idDemo,
   titelDemo,
   captionDemo,
   hrefDemo
@@ -14,7 +15,7 @@ export default function DemoRightText({
             {captionDemo} <a href={hrefDemo}>Read More...</a>
           </p>
         </div>
-        <img src={imgDemo} alt="RNS" />
+        <img src={imgDemo} id={idDemo} alt="RNS" />
       </div>
     </div>
   );

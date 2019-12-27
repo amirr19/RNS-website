@@ -16,11 +16,7 @@
 .registerAndLogin {
   padding-right: 24px;
   color: #124b68;
-  background-image: linear-gradient(
-    to right,
-    rgba(255, 0, 0, 0),
-    rgba(168, 166, 162)
-  );
+  background: rgba(168, 166, 162);
   font-weight: 450;
   font-size: 12pt;
   width: 100%;
@@ -70,9 +66,6 @@
 .verticalalign {
   vertical-align: middle;
 }
-.demorightext img {
-  width: 120px;
-}
 .righttext {
   display: inline-block;
   width: 300px;
@@ -82,6 +75,11 @@
 }
 .righttext h5 {
   font-weight: 900;
+  font-size: 12pt;
+}
+.righttext p {
+  font-size: 8pt;
+  text-align: left;
 }
 
 /* _____________________________Demo left text_______________________________ */
@@ -95,9 +93,7 @@
   vertical-align: middle;
   padding-top: 10%;
 }
-.demolefttext img {
-  width: 120px;
-}
+
 .lefttext {
   display: inline-block;
   width: 300px;
@@ -108,7 +104,22 @@
   font-weight: 900;
   text-align: right;
 }
+.lefttext h5 {
+  font-weight: 900;
+  font-size: 12pt;
+}
+.lefttext p {
+  font-size: 8pt;
+  text-align: right;
+}
 
+/* _____________________________________size of mobile and pc__________________________________________ */
+#pc {
+  height: 300px;
+}
+#mobile {
+  height: 250px;
+}
 /* ___________________________________ secondary servisec (section3) __________________________________ */
 .section3secondary {
   height: 100vh;
