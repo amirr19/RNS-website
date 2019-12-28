@@ -4,7 +4,7 @@ export default class Mainbanner extends React.Component {
     return (
       <div className="main_banner">
         <div className="bottom_left">
-          <h1>RNS</h1>
+          <h1 className="main_title">RNS</h1>
           <p>
             As the RNS Assistant team, we are determined to be a turning point
             in the world of engineering and medicine <a href="#">Read More</a>

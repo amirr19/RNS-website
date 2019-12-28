@@ -1,4 +1,5 @@
 import React from "react";
+import Button_in_medical_service from "./Button_in_medical_service";
 export default function DemoRightText({
   imgDemo,
   titelDemo,
@@ -15,6 +16,7 @@ export default function DemoRightText({
           <p>
             {captionDemo} <a href={hrefDemo}>Read More...</a>
           </p>
+          <Button_in_medical_service />
         </div>
       </div>
     </div>

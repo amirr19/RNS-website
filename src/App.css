@@ -2,7 +2,7 @@
 .navbar {
   background-color: #124b68;
   padding: 0 !important;
-  font-size: 10pt;
+  font-size: 12pt;
   font-weight: 200;
 }
 .navbar-nav {
@@ -18,14 +18,14 @@
   color: #124b68;
   background: rgba(168, 166, 162);
   font-weight: 450;
-  font-size: 12pt;
+  font-size: 14pt;
   width: 100%;
   float: left;
   position: fixed;
   top: 36px;
   width: 100%;
   z-index: 100;
-  font-size: 10pt;
+  font-size: 12pt;
   font-weight: 300;
 }
 .registerAndLogin p {
@@ -53,8 +53,10 @@
   padding-bottom: 20px;
   text-align: left;
 }
-.button_left h1 {
-  font-weight: 900;
+
+.main_title {
+  font-weight: bold;
+  font-size: 50pt;
 }
 /* ____________________________Demo right text___________________  */
 .demorightext {
@@ -75,10 +77,10 @@
 }
 .righttext h5 {
   font-weight: 900;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 .righttext p {
-  font-size: 8pt;
+  font-size: 10pt;
   text-align: left;
 }
 
@@ -106,10 +108,10 @@
 }
 .lefttext h5 {
   font-weight: 900;
-  font-size: 12pt;
+  font-size: 14pt;
 }
 .lefttext p {
-  font-size: 8pt;
+  font-size: 10pt;
   text-align: right;
 }
 
@@ -165,6 +167,7 @@
 
 .bg-section2 h1 {
   margin-top: 10%;
+  font-size: 50pt;
 }
 .left-panel {
   margin: 100px;
@@ -206,4 +209,19 @@
   width: fit-content;
   display: inline-block;
   margin: 100px 0;
+}
+
+/* __________________________________________button________________________________ */
+.button_in_medical_service {
+  background-color: #124b68; /* Green */
+  border: white solid 1px;
+  border-radius: 10px;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12pt;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
